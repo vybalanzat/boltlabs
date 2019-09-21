@@ -33,7 +33,7 @@
 
   section {
     float: left;
-    padding: 58px 10px 10px;
+    padding: 13px 10px 10px;
     background: #ebebeb;
     width: 495px;
   }
@@ -86,6 +86,4 @@
     top: 20px;
   }
   
-  #section {
-    text-anchor: middle;
-  }
+ 
